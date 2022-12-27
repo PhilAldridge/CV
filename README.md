@@ -4,7 +4,7 @@
 
 ####Teacher of Mathematics and Computer Science
 
-I am a Bristol based teacher of Mathematics and Computer Science. Coding has always been a hobby of mine, starting on BASIC when I was 8, and I aspire to train to become a full-time software developer.
+I am a Bristol based teacher of Mathematics and Computer Science who aspires to train to become a full-time software developer. Coding has always been a hobby of mine, starting on BASIC when I was 8. 
 
 I have a passion for learning and for problem solving and my enthusiasm for these are infectious (and I have my ex-students' maths results to prove it!). As a teacher, I have excellent communication skills, even when discussing complex topics with people who have different amounts of knowledge in the topic being discussed. 
 
@@ -13,13 +13,13 @@ I am inspired to become a software developer because it will require me to learn
 ## Skills
 
 #### Creativity and problem solving
-I am a naturally creative person. Whether I am teaching, drawing, writing, making music or coding, I enjoy approaching things from different angles and testing out different ideas. This allows me to see solutions to problems that others may not think of. When facing a new challenge, I am confident that eventually, through trying new things and learning around the subject, I will be able to find an effective solution (and that I will enjoy the struggle of finding it).
+I am a naturally creative person. Whether I am teaching, drawing, writing, making music, cooking or coding, I enjoy approaching things from different angles and testing out different ideas. This allows me to see solutions to problems that others may not think of. When facing a new challenge, I am confident that eventually, through trying new things and learning around the subject, I will be able to find an effective solution (and that I will enjoy the struggle of finding it).
 
 #### Pace of learning
 I love to learn new things and I have become adept at picking up new things and applying them quickly. For my first Android App, Cable Chaos, I had no experience with Unity or C#, but through online resources I was able to create something unique and engaging within a few weeks. In order to make my first database driven website, Decypher, I read a book on SQL and PHP and was able to achieve my vision. I am comfortable in situations where I don't know everything and I am not afraid of asking questions in order to further my understanding.
 
 #### Teamwork and communication
-Teaching requires excellent communication and I have become very effective at both explaining topics to others and understanding the perspective of others. As well as teaching students, I have led training sessions for the teachers of mathematics in department meetings and INSET days and I have created exemplary teaching resources that are now used as the standard across a five school trust. I also led a collaboration of mathematics and science departments where together we decided how best to teach and structure topics which are common to both subjects. I have recently been part of a project exploring how teachers can most effectively deploy and communicate with teaching assistants.
+Teaching requires excellent communication and I have become very effective at both explaining topics to others and understanding the perspective of others. As well as teaching students, I have led training sessions for the teachers of mathematics in department meetings and INSET days. I have created exemplary teaching resources that are now used as the standard across a five school trust. I also led a collaboration of mathematics and science departments where together we decided how best to teach and structure topics which are common to both subjects. I have recently been part of a project exploring how teachers can most effectively deploy and communicate with teaching assistants.
 
 #### Mathematical knowledge
 As a mathematics graduate at the University of Birmingham, my mathematical knowledge is very strong. I have found applying this knowledge when coding to be very useful, particularly when creating efficient and robust algorithms to solve complex problems and when trying to understand existing algorithms, like the fast fourier trasnform and its many applications.
