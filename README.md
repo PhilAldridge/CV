@@ -1,19 +1,19 @@
 ## Phil Aldridge
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Blog](https://medium.com/@malinnaleach) | [LinkedIn](https://www.linkedin.com/in/malinna-leach-bab84b10b)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/phil-aldridge-b1009223b/)
 
 ####Teacher of Mathematics and Computer Science
 
 I am a Bristol based teacher of Mathematics and Computer Science. Coding has always been a hobby of mine, starting on BASIC when I was 8, and I aspire to train to become a full-time software developer.
 
-I have a passion for learning and for problem solving and my enthusiasm for these are infectious. As a teacher, I have excellent communication skills, even when discussing complex topics with people who have different amounts of knowledge in the topic being discussed. 
+I have a passion for learning and for problem solving and my enthusiasm for these are infectious (and I have my ex-students' maths results to prove it!). As a teacher, I have excellent communication skills, even when discussing complex topics with people who have different amounts of knowledge in the topic being discussed. 
 
 I am inspired to become a software developer because it will require me to learn and study new languages and frameworks and because it will allow me to put my problem solving skills to use in building something tangible, something that may make a person's life that little bit easier.
 
 ## Skills
 
 #### Creativity and problem solving
-I am a naturally creative person. Whether I am teaching, drawing, writing, making music or coding, I enjoy approaching things from different angles. TODO
+I am a naturally creative person. Whether I am teaching, drawing, writing, making music or coding, I enjoy approaching things from different angles and testing out different ideas. This allows me to see solutions to problems that others may not think of. When facing a new challenge, I am confident that eventually, through trying new things and learning around the subject, I will be able to find an effective solution (and that I will enjoy the struggle of finding it).
 
 #### Pace of learning
 I love to learn new things and I have become adept at picking up new things and applying them quickly. For my first Android App, Cable Chaos, I had no experience with Unity or C#, but through online resources I was able to create something unique and engaging within a few weeks. In order to make my first database driven website, Decypher, I read a book on SQL and PHP and was able to achieve my vision. I am comfortable in situations where I don't know everything and I am not afraid of asking questions in order to further my understanding.
@@ -22,7 +22,7 @@ I love to learn new things and I have become adept at picking up new things and 
 Teaching requires excellent communication and I have become very effective at both explaining topics to others and understanding the perspective of others. As well as teaching students, I have led training sessions for the teachers of mathematics in department meetings and INSET days and I have created exemplary teaching resources that are now used as the standard across a five school trust. I also led a collaboration of mathematics and science departments where together we decided how best to teach and structure topics which are common to both subjects. I have recently been part of a project exploring how teachers can most effectively deploy and communicate with teaching assistants.
 
 #### Mathematical knowledge
-As a mathematics graduate at the University of Birmingham, my mathematical knowledge is very strong. TDOD
+As a mathematics graduate at the University of Birmingham, my mathematical knowledge is very strong. I have found applying this knowledge when coding to be very useful, particularly when creating efficient and robust algorithms to solve complex problems and when trying to understand existing algorithms, like the fast fourier trasnform and its many applications.
 
 ## Projects
 Please feel free to explore my Git profile to see more of my work.  
@@ -41,33 +41,63 @@ Please feel free to explore my Git profile to see more of my work.
 
 ![Screenshot](https://github.com/PhilAldridge/Decypher/raw/main/dec.png) | [Decypher](https://github.com/PhilAldridge/Decypher)  | A web app that creates flashcards that helps you to learn a new language  | 6 weeks | Javascript, PHP, SQL, Microsoft Translation API
 
+
 ## Education
 
-#### Makers Academy (September to December 2016)
+#### CS50 - HarvardX (2014)
 
-A 16-week software development bootcamp, with a focus on:
+An online computer science course ending with a keystone project.
 
-- Pair programming  
-- Agile methodologies  
-- Test-Driven Development  
-- Object oriented programming with SOLID principles
+- Coding in C
+- Memory allocation
+- APIs
 
-#### University of Salford (1997 - 2000)
 
-**BSc(Hons) Audio Technology:  2.1**    
-This involved a lot of mathematical modelling, along with some application programming.
+#### PGCE Secondary Mathematics - Edge Hill University (2007 - 2008)
+
+Degree for teaching mathematics in secondary schools and sixth form colleges.
+
+
+#### BSc(Hons) Mathematics - University of Birmingham (2003 - 2006)
+
+Degree in mathematics including modules in:
+- Computer theory
+- Coding in MATLAB
+- Real analysis
+- Thermodynamics
+- Calculus
+
+
+#### Mathematics, Computer Science and Physics A levels - Winstanley College (2001 - 2003)
 
 
 ## Experience
 
-**Innocent Drinks (2008 - 2015)**    
-- I started as a Customer Supply Specialist, and was promoted to Manager level in 2011.
-- Customer Supply responsibilities:  Customer-Facing Relationship Management, Promotional Forecasting, Supply KPIs.
-- I also project managed the full supply-chain of Innocent's Big Knit campaign.
+#### Teacher of Mathematics and Computer Science - Bristol Free School (2014 - )
+- Teacher of Maths at GCSE and A level
+- Teacher of Further Maths A level
+- Teacher of Computer Science at KS3
+- In charge of stretch and challenge for high ability pupils in the maths department
+- In charge of curriculum development in A level maths
+- Leader of several training sessions within the maths department and the school trust
 
-**Music Industry (2000 - 2008)**   
-- Held a number of roles, mainly in independent music distribution.
+#### Teacher of Mathematics - St Brendan's Sixth Form College (2013 - 2014)
+- Teacher of maths at GCSE and A level
+- Took part in 'coding club', teaching coding to year 8 and 9 students
 
+#### Teacher of Mathematics - Ralph Allen School (2012 - 2013)
+- Teacher of maths at GCSE and A level
+- Organised and ran an afterschool masterclass in maths session for students and parents
+- Ran a 'computer game design' afterschool club
+
+#### Supply Teacher - Protocol Education (2011 - 2012)
+- Supply teaching in various school in the Bristol area
+
+#### Teacher of Mathematics - Q.E.H. Independent School (2010 - 2011)
+- NQT Teacher of maths at GCSE and A level
 
 ## Interests
-Cult comedy shows, baking, interior design, politics, laughing at the silly stuff my kids do and say, allotmenting (OK, that's mainly my Husband, but I like to eat the produce) and inexplicably hoarding more ex-military blankets than I will ever make use of.
+- Music - I have a grade 5 in piano. I also enjoy playing the guitar and enjoy making a noise out of any instrument I can get my hands on.
+- Art - My daughter has become interested in drawing and I have loved drawing along side her and trying to remember things I have learned in GCSE art all those years ago.
+- Travelling - I have travelled extensively around Europe and South America (mostly before I had children). I love the adventure and the chance to experience different ways of life and I look forward to doing more of this as the children get older.
+- I also enjoy cycling, cooking, literature and socialising over a good board game. 
