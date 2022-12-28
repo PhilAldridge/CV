@@ -37,35 +37,35 @@ Please feel free to explore my Git profile to see more of my work.
 
 ![Screenshot](https://github.com/PhilAldridge/Smplfy/raw/main/smplfylogo.png)
 
-| [Smplfy](https://github.com/PhilAldridge/Smplfy)  | A web game designed to help students learn the rules of algebra | 7 weeks | Javascript, JQuery, Phaser
+| [Smplfy](https://github.com/PhilAldridge/Smplfy)  | A web game designed to help students learn the rules of algebra | 7 weeks | JavaScript, jQuery, Phaser
 
 &nbsp;
 &nbsp;
 
 ![Screenshot](https://github.com/PhilAldridge/translation-mats/raw/main/transmat.JPG)
 
-| [Translation Mats](https://github.com/PhilAldridge/translation-mats)  | A web app that creates translation mats for different maths topics in a variety of languages  | Javascript, Azure, HTML, CSS
+| [Translation Mats](https://github.com/PhilAldridge/translation-mats)  | A web app that creates translation mats for different maths topics in a variety of languages  | JavaScript, Azure, HTML, CSS
 
 &nbsp;
 &nbsp;
 
 ![Screenshot](https://github.com/PhilAldridge/eq8/raw/main/eq8.JPG)
 
-| [eq8](https://github.com/PhilAldridge/eq8)  | A web app designed to help students learn how to solve linear equations | 5 weeks | Javascript, MathJax, PHP, SQL
+| [eq8](https://github.com/PhilAldridge/eq8)  | A web app designed to help students learn how to solve linear equations | 5 weeks | JavaScript, MathJax, PHP, SQL
 
 &nbsp;
 &nbsp;
 
 ![Screenshot](https://github.com/PhilAldridge/Elastic-Maths-website/blob/main/emaths.png)
 
-| [Elastic Maths](elasticmaths.epizy.com/)  | A website made to house the educational apps I create | 4 weeks | Javasctipt, PHP, SQL, Bootstrap
+| [Elastic Maths](elasticmaths.epizy.com/)  | A website made to house the educational apps I create | 4 weeks | JavaScript, PHP, SQL, Bootstrap
 
 &nbsp;
 &nbsp;
 
 ![Screenshot](https://github.com/PhilAldridge/Decypher/raw/main/dec.png)
 
-| [Decypher](https://github.com/PhilAldridge/Decypher)  | A web app that creates flashcards that helps you to learn a new language  | 6 weeks | Javascript, PHP, SQL, Microsoft Translation API
+| [Decypher](https://github.com/PhilAldridge/Decypher)  | A web app that creates flashcards that helps you to learn a new language  | 6 weeks | JavaScript, PHP, SQL, Microsoft Translation API
 
 
 ## Education
@@ -84,7 +84,7 @@ An online computer science course ending with a keystone project.
 Degree for teaching mathematics in secondary schools and sixth form colleges.
 
 
-#### BSc(Hons) Mathematics - University of Birmingham (2003 - 2006)
+#### BSc (Hons) Mathematics - University of Birmingham (2003 - 2006)
 
 Degree in mathematics including modules in:
 - Computer theory
