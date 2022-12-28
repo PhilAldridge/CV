@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/phil-aldridge-b1009223b/)
 
-####Teacher of Mathematics and Computer Science
+#### Teacher of Mathematics and Computer Science
 
 I am a Bristol based teacher of Mathematics and Computer Science who aspires to train to become a full-time software developer. Coding has always been a hobby of mine, starting on BASIC when I was 8. 
 
