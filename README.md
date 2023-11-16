@@ -2,13 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/phil-aldridge-b1009223b/)
 
-#### Teacher of Mathematics and Computer Science
+#### Academy Graduate Software Engineer at BJSS Ltd.
 
-I am a Bristol based teacher of Mathematics and Computer Science who aspires to train to become a full-time software developer. Coding has always been a hobby of mine, starting on BASIC when I was 8. 
-
-I have a passion for learning and for problem solving and my enthusiasm for these are infectious (and I have my ex-students' maths results to prove it!). As a teacher, I have excellent communication skills, even when discussing complex topics with people who have different amounts of knowledge in the topic being discussed. 
-
-I am inspired to become a software developer because it will require me to learn and study new languages and frameworks and because it will allow me to put my problem solving skills to use in building something tangible, something that may make a person's life that little bit easier.
+I am a software engineer at BJSS Ltd., after going through their Academy program, which started in September 2023. [BJSS](https://www.bjss.com/) is a leading technology and engineering consultancy for business, collaborating with some of the world’s leading organisations to deliver complex, innovative technology, engineering, and industry solutions. During the seven week academy, I learned several different languages and frameworks as well as abstract techniques such as: Agile methodology, clean code, design patterns and SOLID fundamentals, continuous integration/deployment, concurrency, and versioning. Before this, I was a teacher of Mathematics and Computer Science at GCSE and A-level with a special responsibility for delivering stretch and challenge for more able students. I have always been a hobbyist coder and had made several personal projects in various languages before finally deciding to make my interest a career when I joined BJSS.
 
 ## Skills
 
@@ -28,6 +24,20 @@ As a mathematics graduate at the University of Birmingham, my mathematical knowl
 Please feel free to explore my Git profile to see more of my work.  
 
 | Project name | Description | Timeframe | Technologies used
+![Screnshot](https://github.com/PhilAldridge/MapOfMaths/assets/105776682/dcd405f0-b313-4e21-9181-285de1580a3a)
+
+| [Map of Maths](https://github.com/PhilAldridge/MapOfMaths) | A web app that shows a map of mathematical concepts and how they are related to each other, as well as questions that test each concept. | 2-3 weeks | TypeScript, React, NextJs, NextAuth, Neo4j, NeoViz
+
+&nbsp;
+&nbsp;
+
+![Screenshot](https://user-images.githubusercontent.com/105776682/252937074-7ae3528d-eda2-415b-8f54-de58557bdcca.PNG)
+
+| [Ultimate Tic-Tac-Toe](https://github.com/PhilAldridge/React_Tic-Tac-Toe) | A web app where you can play Ultimate Tic Tac Toe. Includes play local and network play as well as an artificial intelligence player | 6-7 weeks | JavaScript, React, Node, Express, MongoDB
+
+&nbsp;
+&nbsp;
+
 ![Screenshot](https://camo.githubusercontent.com/b9e4e0f04213a0bebbd71179970f48f1e26889f6a8185f60bec9c60bc7dd1a7d/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f447141643336764775535a6f564b5a634d5848646266694c5062474b50344d524d36625232306676494c436247444655686a7138704969624439414d582d6e676d6f673d77353132302d6832383830)
 
 | [Cable Chaos](https://github.com/PhilAldridge/Cable-Chaos)  | A 3D puzzle game for android  | 8-10 weeks  | Unity, C#, PHP, SQL
@@ -70,8 +80,21 @@ Please feel free to explore my Git profile to see more of my work.
 
 ## Education
 
-#### CS50 - HarvardX (2014)
+#### AWS Cloud Practitioner (2023) [Badge](https://www.credly.com/badges/f36bdb74-2c28-4081-8430-3c4aace08458/)
+Completed the Pearson accredited course, learning the fundamentals of different AWS services.
 
+
+#### BJSS Academy (2023) [Badge](https://www.credly.com/badges/cedec4d7-3bad-40d2-97d3-707e36575408)
+This 7 week period covered a multitude of technologies and methodologies typically used by both BJSS and their clients. The topics covered during the academy were:
+
+- Week 1 - Enterprise Agile - Ways of Working (Agile).
+- Week 2 - Architecture / The Cloud / Deployment (Docker, Terraform, Microsoft Azure, Git).
+- Week 3 - Data / Front End / Back End / Web Security (React, Redux, SQLite, RESTful API, PostgreSQL, HTML, CSS, JavaScript).
+- Week 4 - OOP / Refactoring / Low Code Development (Java, JUnit, Microsoft Power Apps).
+- Extended Learning: Test Driven Development / Networking / Unit testing / Design Patterns (Java, Python, IntelliJ) / Concurrency (Go) / Functional Programming (Python) / Big Data processing.
+
+
+#### CS50 - HarvardX (2014)
 An online computer science course ending with a keystone project.
 
 - Coding in C
@@ -80,12 +103,10 @@ An online computer science course ending with a keystone project.
 
 
 #### PGCE Secondary Mathematics - Edge Hill University (2007 - 2008)
-
 Degree for teaching mathematics in secondary schools and sixth form colleges.
 
 
 #### BSc (Hons) Mathematics - University of Birmingham (2003 - 2006)
-
 Degree in mathematics including modules in:
 - Computer theory
 - Coding in MATLAB
@@ -99,7 +120,11 @@ Degree in mathematics including modules in:
 
 ## Experience
 
-#### Teacher of Mathematics and Computer Science - Bristol Free School (2014 - )
+#### Software Engineer - BJSS Ltd (2023 - )
+- Technology agnostic software development/deployment
+- Emphasis on agile methodologies and adapting to the workflow of our clients
+
+#### Teacher of Mathematics and Computer Science - Bristol Free School (2014 - 2023)
 - Teacher of Maths at GCSE and A level
 - Teacher of Further Maths A level
 - Teacher of Computer Science at KS3
