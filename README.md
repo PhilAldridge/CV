@@ -80,6 +80,10 @@ Please feel free to explore my Git profile to see more of my work.
 
 ## Education
 
+#### Design Patterns and SOLID Principles with Java (2023) [Badge](https://www.credly.com/badges/7e108b7e-3201-47a4-83ae-977d6f5e501d/public_url)
+Online course looking at major Object Oriented Design Patterns from a practical perspective, analysing the problems they solve and the trade-offs between different design choices. Completed from a practical perspective by progressively adding features and refactoring code in a Java application project. 
+
+
 #### AWS Cloud Practitioner (2023) [Badge](https://www.credly.com/badges/f36bdb74-2c28-4081-8430-3c4aace08458/)
 Completed the Pearson accredited course, learning the fundamentals of different AWS services.
 
