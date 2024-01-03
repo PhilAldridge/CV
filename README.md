@@ -20,8 +20,8 @@ Teaching requires excellent communication and I have become very effective at bo
 #### Mathematical knowledge
 As a mathematics graduate at the University of Birmingham, my mathematical knowledge is very strong. I have found applying this knowledge when coding to be very useful, particularly when creating efficient and robust algorithms to solve complex problems and when trying to understand existing algorithms, like the fast fourier trasnform and its many applications.
 
-## Projects
-Please feel free to explore my Git profile to see more of my work.  
+## Personal projects
+As well as working on confidential projects with BJSS, I have created several personal projects that are visible on my Github profile. Some of these are listed below.
 
 | Project name | Description | Timeframe | Technologies used
 ![Screnshot](https://github.com/PhilAldridge/MapOfMaths/assets/105776682/dcd405f0-b313-4e21-9181-285de1580a3a)
